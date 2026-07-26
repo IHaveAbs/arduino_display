@@ -65,8 +65,7 @@ and an LCD, wire them up, paste in the sketch, and press **Start Simulation**.
 
 This is a genuine project I built some years ago. The original source code and
 build notes were lost, so this repository is a faithful reconstruction from a
-photo of the working circuit (see above). The hardware is described only as far
-as the photo confirms it.
+photo of the working circuit (see above).
 
 ## Author
 
